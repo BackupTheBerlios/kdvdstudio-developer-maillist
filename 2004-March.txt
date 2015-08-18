@@ -1,0 +1,97 @@
+From martin at thawed.org  Wed Mar 10 20:15:34 2004
+From: martin at thawed.org (Martin Rohde)
+Date: Wed, 10 Mar 2004 20:15:34 +0100
+Subject: [kdvdstudio-developer] Gmane group init
+Message-ID: <87wu5sy0mh.fsf@thawed.org>
+
+This list should now be accessible through
+gmane.comp.video.kdvdstudio.devel at Gmane (http://www.gmane.org/)
+
+
+From martin at thawed.org  Wed Mar 10 20:23:16 2004
+From: martin at thawed.org (Martin Rohde)
+Date: Wed, 10 Mar 2004 20:23:16 +0100
+Subject: [kdvdstudio-developer] Gmane group init
+In-Reply-To: <87wu5sy0mh.fsf@thawed.org> (Martin Rohde's message of "Wed, 10
+ Mar 2004 20:15:34 +0100")
+References: <87wu5sy0mh.fsf@thawed.org>
+Message-ID: <87ptbky09n.fsf@thawed.org>
+
+On Day 70 of Chaos 3170, Martin Rohde wrote:
+
+> This list should now be accessible through
+> gmane.comp.video.kdvdstudio.devel at Gmane (http://www.gmane.org/)
+
+gmane.comp.kde.devel.kdvdstudio is the correct group name.
+
+
+From krause at sdbk.de  Wed Mar 10 20:27:56 2004
+From: krause at sdbk.de (Sebastian D.B. Krause)
+Date: Wed, 10 Mar 2004 20:27:56 +0100
+Subject: [kdvdstudio-developer] Test (was: Gmane group init)
+References: <87wu5sy0mh.fsf@thawed.org> <87ptbky09n.fsf@thawed.org>
+Message-ID: <87llm8o62r.fsf@news.sdbk.de>
+
+Martin Rohde <martin at thawed.org> wrote:
+> On Day 70 of Chaos 3170, Martin Rohde wrote:
+>> This list should now be accessible through
+>> gmane.comp.video.kdvdstudio.devel at Gmane (http://www.gmane.org/)
+>
+> gmane.comp.kde.devel.kdvdstudio is the correct group name.
+
+Test.
+
+
+
+From martin at thawed.org  Wed Mar 10 20:32:43 2004
+From: martin at thawed.org (Martin Rohde)
+Date: Wed, 10 Mar 2004 20:32:43 +0100
+Subject: [kdvdstudio-developer] Re: Test
+References: <87wu5sy0mh.fsf@thawed.org> <87ptbky09n.fsf@thawed.org>
+ <87llm8o62r.fsf@news.sdbk.de>
+Message-ID: <c2nqgp$dc4$1@sea.gmane.org>
+
+On Day 70 of Chaos 3170, Sebastian D. B. Krause wrote:
+
+> Martin Rohde <martin at thawed.org> wrote:
+>> On Day 70 of Chaos 3170, Martin Rohde wrote:
+>>> This list should now be accessible through
+>>> gmane.comp.video.kdvdstudio.devel at Gmane (http://www.gmane.org/)
+>>
+>> gmane.comp.kde.devel.kdvdstudio is the correct group name.
+>
+> Test.
+
+Noch einer.
+
+
+
+From ulrich at burgbacher.net  Mon Mar 22 01:33:23 2004
+From: ulrich at burgbacher.net (Ulrich Burgbacher)
+Date: Mon, 22 Mar 2004 01:33:23 +0100
+Subject: [kdvdstudio-developer] Re: Test
+References: <87wu5sy0mh.fsf@thawed.org> <87ptbky09n.fsf@thawed.org>
+ <87llm8o62r.fsf@news.sdbk.de> <c2nqgp$dc4$1@sea.gmane.org>
+Message-ID: <878yhtu3e4.fsf@burgbacher.net>
+
+Martin Rohde <martin at thawed.org> writes:
+
+>>>> This list should now be accessible through
+>>>> gmane.comp.video.kdvdstudio.devel at Gmane (http://www.gmane.org/)
+>>>
+>>> gmane.comp.kde.devel.kdvdstudio is the correct group name.
+>>
+>> Test.
+>
+> Noch einer.
+
+Und noch einer.
+
+-- 
+$_=q#|$++=_$;kcap4H'(','857a447371402f6e6864727560502275602c61684b63
+62756@;)'ps=_/tilof;/.0(r)64.irp{\"tn0x"bf;030(ro32..rp{)$tni$=>%_$?
+_]_$[rhc:o((($(dr9-)_ar+70(dn))23)62%)79+les}(tce$,,$,$,,20.,_$;)||2
+%%$++irp}\"tn;"n#;s|$/||g;for(unpack"A4"x0x37,$_){$..=reverse}eval$.
+
+
+

@@ -1,0 +1,27 @@
+From toknieper at t-online.de  Mon Aug  9 14:27:29 2004
+From: toknieper at t-online.de (Tobias Knieper)
+Date: Mon, 09 Aug 2004 14:27:29 +0200
+Subject: [kdvdstudio-developer] Re: Test
+References: <87wu5sy0mh.fsf@thawed.org> <87ptbky09n.fsf@thawed.org> <87llm8o62r.fsf@news.sdbk.de> <c2nqgp$dc4$1@sea.gmane.org> <878yhtu3e4.fsf@burgbacher.net>
+Message-ID: <cf7qi6$1po$1@sea.gmane.org>
+
+Ulrich Burgbacher wrote:
+
+> Martin Rohde <martin at thawed.org> writes:
+> 
+>>>>> This list should now be accessible through
+>>>>> gmane.comp.video.kdvdstudio.devel at Gmane (http://www.gmane.org/)
+>>>>
+>>>> gmane.comp.kde.devel.kdvdstudio is the correct group name.
+>>>
+>>> Test.
+>>
+>> Noch einer.
+> 
+> Und noch einer.
+> 
+
+Test.
+
+
+
